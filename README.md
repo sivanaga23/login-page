@@ -90,9 +90,3 @@ login-page/
 ## License
 
 This project is **open-source** and free to use under the MIT License.
-
----
-
-If you want, I can also **write a polished README that includes screenshots and usage instructions for both JS and React in one file**, ready to push to GitHub.
-
-Do you want me to do that?
